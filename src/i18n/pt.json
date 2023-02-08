@@ -1,0 +1,50 @@
+{
+  "LABEL": {
+    "CLIENTE": "Cliente",
+    "ATIVO": "Ativo",
+    "INATIVO": "Inativo",
+    "SITUACAO": "Situação",
+    "EDITAR": "Editar",
+    "DETALHAR": "Detalhar",
+    "EXCLUIR": "Excluir",
+    "SIM": "Sim",
+    "NAO": "Não",
+    "NOME_CLIENTE": "Nome do cliente",
+    "CPF": "CPF",
+    "DATA_NASCIMENTO": "Data de nascimento",
+    "NOME": "Nome",
+    "DESCRICAO": "Descrição",
+    "QUANTIDADE": "Quantidade",
+    "VALOR_UNITARIO": "Valor unitário"
+  },
+  "MESSAGE": {
+    "ERRO_REQUISICAO": "Ops, não foi possível realizar a requisição! Tente novamente mais tarde.",
+    "NAO_HA_RESULTADOS_CONSULTA": "Não há resultados para essa consulta",
+    "CONFIRMACAO_EXCLUSAO_CLIENTE": "Deseja realmente excluir o (a) cliente: {nome} - {cpf}?",
+    "NAO_HA_CONSUMO": "Não há consumo"
+  },
+  "TITLE": {
+    "SISTEMA_GERENCIAMENTO_CLIENTES": "Sistema de gerenciamento de clientes",
+    "PARAMETROS_CONSULTA": "Parâmetros de consulta",
+    "RESULTADO_CONSULTA": "Resultados da consulta",
+    "NOME": "Nome",
+    "CPF": "CPF",
+    "SITUACAO": "Situação",
+    "ACOES": "Ações",
+    "EDICAO_CLIENTE": "Edição de cliente",
+    "CONFIRMACAO_EXCLUSAO": "Confirmar exclusão",
+    "CADASTRO_CLIENTE": "Cadastro de cliente",
+    "CONSUMO_CLIENTE": "Consumo do cliente",
+    "DADOS_CLIENTE": "Dados do Cliente"
+  },
+  "BUTTON": {
+    "NOVO": "Novo",
+    "LIMPAR": "Limpar",
+    "CONSULTAR": "Consultar",
+    "CONFIRMAR": "Confirmar"
+  },
+  "PLACEHOLDER": {
+    "PESQUISE_POR_NOME": "Pesquise pelo nome",
+    "SELECIONE": "Selecione"
+  }
+}
